@@ -1,4 +1,4 @@
-### Salut, Je suis El Guendouz Ayoub - aka [Ayoub9360][website] 👋
+### Salut, Je m'appelle El Guendouz Ayoub - aka [Ayoub9360][website] 👋
 
 ## Je suis étudiant en deuxième année de développement web!
 
@@ -10,7 +10,6 @@
 
 [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px"
 
 <br />
 
@@ -48,7 +47,6 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
@@ -67,7 +65,4 @@
 
 [website]: http://elguendouz-ayoub.com/
 [cv]: http://elguendouz-ayoub.com/img/Elguendouz_Ayoub_CV%20Stage.pdf
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-[linkedin]: https://www.linkedin.com/in/sabesan96
+[linkedin]: https://www.linkedin.com/in/ayoub-elg/
