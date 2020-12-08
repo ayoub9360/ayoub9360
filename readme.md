@@ -62,6 +62,6 @@
 
 ---
 
-[website]: http://elguendouz-ayoub.com/
-[cv]: http://elguendouz-ayoub.com/assets/Elguendouz_Ayoub_CV_Alternance.pdf
+[website]: https://elguendouz-ayoub.com/
+[cv]: https://elguendouz-ayoub.com/assets/El_Guendouz_Ayoub_CV.pdf
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
