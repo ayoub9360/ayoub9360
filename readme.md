@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack
-- ⚡ Fun fact: I love to play soccer and listen music.
 
 ### Connect with me:
 
@@ -64,5 +63,5 @@
 ---
 
 [website]: http://elguendouz-ayoub.com/
-[cv]: http://elguendouz-ayoub.com/img/Elguendouz_Ayoub_CV%20Stage.pdf
+[cv]: http://elguendouz-ayoub.com/assets/Elguendouz_Ayoub_CV_Alternance.pdf
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
