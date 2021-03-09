@@ -5,6 +5,10 @@
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack
 
+## My last project
+- [Yibzee][yibzee]
+- [Portfolio][website]
+
 ### Connect with me:
 
 [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -63,5 +67,6 @@
 ---
 
 [website]: https://elguendouz-ayoub.com/
+[yibzee]: https://yibzee.com/
 [cv]: https://elguendouz-ayoub.com/assets/El_Guendouz_Ayoub_CV.pdf
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
