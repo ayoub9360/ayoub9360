@@ -23,6 +23,9 @@
 
 ### Languages and Tools:
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub9360&show_icons=true&locale=en&layout=compact" alt="ayoub9360" /></p>
+
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
