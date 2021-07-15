@@ -1,11 +1,14 @@
-### Salut, Je m'appelle El Guendouz Ayoub - aka [Ayoub9360][website] 👋
+### Hi, I'm El Guendouz Ayoub - [Ayoub9360][website] 👋
 
-## Je suis étudiant en deuxième année de développement web!
+## I am a third year student in web development !
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack
+- 🔭 I’m currently working at [Spendesk](https://spendesk.com)
+- 👨‍💻 All of my projects are available in my [website][website]
+- 📫 How to reach me **ayoub.elguendouz[@]gmail .com**
+- 📄 [Know about my experiences with my resume][cv]
 
 ## My last project
+- [Responsive Check Bot](https://github.com/ayoub9360/responsive-bot-check)
 - [Yibzee][yibzee]
 - [Portfolio][website]
 
