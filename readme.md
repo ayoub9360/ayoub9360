@@ -1,6 +1,6 @@
 ### Hi, I'm El Guendouz Ayoub - [Ayoub9360][website] 👋
 
-## I am a third year student in web development !
+## I am a student in computer science !
 
 - 🔭 I’m currently working at [Google Cloud](https://cloud.google.com/?hl=fr)
 - 👨‍💻 All of my projects are available in my [website][website]
