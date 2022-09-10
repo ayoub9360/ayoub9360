@@ -2,7 +2,7 @@
 
 ## I am a third year student in web development !
 
-- 🔭 I’m currently working at [Spendesk](https://spendesk.com)
+- 🔭 I’m currently working at [Google Cloud](https://cloud.google.com/?hl=fr)
 - 👨‍💻 All of my projects are available in my [website][website]
 - 📫 How to reach me **ayoub.elguendouz[@]gmail .com**
 - 📄 [Know about my experiences with my resume][cv]
