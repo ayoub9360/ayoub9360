@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
 </div>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub9360&show_icons=true&locale=en&layout=compact" alt="ayoub9360" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub9360&show_icons=true&locale=en&layout=compact" alt="ayoub9360" /></p>
 <br />
 
 [website]: https://elguendouz-ayoub.com/
