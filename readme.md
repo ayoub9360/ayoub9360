@@ -1,8 +1,13 @@
+[website]: https://elguendouz-ayoub.com/
+[yibzee]: https://yibzee.com/
+[cv]: https://elguendouz-ayoub.com/assets/El_Guendouz_Ayoub_CV.pdf
+[linkedin]: https://www.linkedin.com/in/ayoub-elg/
+
 # Hi 👋🏻, I'm [Ayoub9360][website]
 
 - 🔭 I’m currently working at [Google](https://cloud.google.com/?hl=fr)
 - 👨‍💻 All of my projects are available in my [website][website]
-- 📫 Contact me on [Linkedin][https://www.linkedin.com/in/ayoub-elg/]
+- 📫 Contact me on [Linkedin][linkedin]
 - ⚡  I love creating new things
 
 ## My last projects
@@ -60,10 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub9360&show_icons=true&locale=en&layout=compact" alt="ayoub9360" />
 </div>
 
-[website]: https://elguendouz-ayoub.com/
-[yibzee]: https://yibzee.com/
-[cv]: https://elguendouz-ayoub.com/assets/El_Guendouz_Ayoub_CV.pdf
-[linkedin]: https://www.linkedin.com/in/ayoub-elg/
+
 
 
 
