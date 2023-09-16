@@ -1,4 +1,4 @@
-### Hi, I'm El Guendouz Ayoub - [Ayoub9360][website] 👋
+### Hi 👋🏻, I'm [Ayoub9360][website]
 
 ## I am a student in computer science !
 
@@ -80,7 +80,7 @@
 
 
 
-<h1 align="left">Hi 👋🏻, I'm Ayoub El Guendouz</h1>
+
 
 ###
 
