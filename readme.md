@@ -19,8 +19,6 @@
 
 <br />
 
----
-
 ### Languages and Tools:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
