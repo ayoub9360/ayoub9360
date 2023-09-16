@@ -64,37 +64,3 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub9360&show_icons=true&locale=en&layout=compact" alt="ayoub9360" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###
-
-<h2 align="left">Creation</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayoub9360/ayoub9360/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayoub9360.ayoub9360&left_color=aliceblue&right_color=azure"  />
-</div>
-
-###
