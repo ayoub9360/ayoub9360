@@ -1,7 +1,7 @@
 [website]: https://elguendouz-ayoub.com/
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
 
-# Hi 👋🏻, I'm [Ayoub9360][website]
+# Hi 👋🏻, I'm [Ayoub][website]
 
 - 🔭 I’m currently working at [Google](https://cloud.google.com/?hl=fr)
 - 👨‍💻 All of my projects are available in my [website][website]
