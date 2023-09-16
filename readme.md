@@ -1,13 +1,11 @@
 # Hi 👋🏻, I'm [Ayoub9360][website]
 
-## I am a student in computer science !
-
-- 🔭 I’m currently working at [Google Cloud](https://cloud.google.com/?hl=fr)
+- 🔭 I’m currently working at [Google](https://cloud.google.com/?hl=fr)
 - 👨‍💻 All of my projects are available in my [website][website]
-- 📫 How to reach me **ayoub.elguendouz[@]gmail .com**
-- 📄 [Know about my experiences with my resume][cv]
+- 📫 Contact me on [Linkedin][https://www.linkedin.com/in/ayoub-elg/]
+- ⚡  I love creating new things
 
-## My last project
+## My last projects
 - [Responsive Check Bot](https://github.com/ayoub9360/responsive-bot-check)
 - [Yibzee][yibzee]
 - [Portfolio][website]
