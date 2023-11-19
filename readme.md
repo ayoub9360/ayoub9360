@@ -40,7 +40,7 @@ Creation of a project between student for a school project to raise fund for cha
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/QR_Code_example.png" width="16px" />  Yibzee
 [Yibzee](https://happy-goodall-cbe8d2.netlify.app/),
-Creation of a project enabling restaurateurs to create a free digital menu accessible by QR code. 
+Creation of a project enabling fast food owner to create a free digital menu accessible by QR code. 
 
 ### <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png" width="16px" />  Python Game
 [Python Game](https://github.com/ayoub9360/python-game),
