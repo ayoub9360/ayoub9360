@@ -10,7 +10,7 @@
 
 ## My last projects
 
-### <img src="https://elguendouz-ayoub.com/img/favicon.ico" width="16px" />  Portfolio
+### <img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" />  Portfolio
 [Ayoub El Guendouz - Portfolio](https://elguendouz-ayoub.com),
 </> and Crafted with 💛 by Ayoub El Guendouz
 
