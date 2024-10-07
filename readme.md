@@ -30,7 +30,7 @@ Google Dev Library is content library of open source projects and technical blog
 [Responsive Check Bot](https://github.com/ayoub9360/responsive-check-bot),
 This is a bot, who will automaticaly check all pages of your website from your sitemap.xml with the size of viewport you want and create a screenshoot of each page to see if you have some issues to fix in one of them.
 
-### <img src="https://www.spigotmc.org/attachments/proxy-png.110433/" width="16px" />  Local Rotating Proxies
+### <img src="https://i.ibb.co/rHGZLD3/proxy.png" width="16px" />  Local Rotating Proxies
 [Local Rotating Proxies](https://github.com/ayoub9360/Local-Rotating-Proxies),
 This project allow you to use one local proxy adress which will rotate for each request between multiple proxies to avoid to get blocked with one of your proxies.
 
