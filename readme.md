@@ -34,7 +34,7 @@ This is a bot, who will automaticaly check all pages of your website from your s
 [Local Rotating Proxies](https://github.com/ayoub9360/Local-Rotating-Proxies),
 This project allow you to use one local proxy adress which will rotate for each request between multiple proxies to avoid to get blocked with one of your proxies.
 
-### <img src="https://un-pour-cent.org/_nuxt/img/Logo.4d1cb62.svg" width="16px" />  Un Pour Cent
+### <img src="https://64a320b6c002914c7a8b6042--silver-sopapillas-113ea2.netlify.app/_nuxt/img/Logo.4d1cb62.svg" width="16px" />  Un Pour Cent
 [Un Pour Cent](https://un-pour-cent.org/),
 Creation of a project between student for a school project to raise fund for charities organisations.
 
