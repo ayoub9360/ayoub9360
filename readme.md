@@ -22,7 +22,7 @@ This project is a bot that allows you to automatically generate images from an H
 [Speech To Text Benchmark](https://github.com/ayoub9360/Speech-To-Text-Benchmark),
 This initiative empowers you to rigorously assess and benchmark the Word Error Rate (WER) across various state-of-the-art Speech-to-Text (STT) models, offered by Google's and OpenAI's platforms.
 
-### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" />  Contributor DevLibrary
+### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" />  DevLibrary
 [DevLibrary](https://github.com/google/devlibrary),
 Google Dev Library is content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.
 
