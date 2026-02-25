@@ -27,11 +27,11 @@ This project is a bot that allows you to automatically generate images from an H
 [Speech To Text Benchmark](https://github.com/ayoub9360/Speech-To-Text-Benchmark),
 This initiative empowers you to rigorously assess and benchmark the Word Error Rate (WER) across various state-of-the-art Speech-to-Text (STT) models, offered by Google's and OpenAI's platforms.
 
-### 💰  Spendesk
+### <img src="https://www.spendesk.com/favicon.ico" width="16px" />  Spendesk
 [Spendesk](https://spendesk.com/),
 Spend management platform that combines payments, approvals, expenses, and accounting automation into one solution.
 
-### 🤝  CFO Connect
+### <img src="https://images.ctfassets.net/jkjmq4si19up/65sO2zXFw40owCOeIO2cg8/5b42b8ed8cc11341172db5a5c2845a47/logo.svg" width="16px" />  CFO Connect
 [CFO Connect](https://www.cfoconnect.eu/),
 The largest community of finance leaders in Europe, providing resources, events, and networking for CFOs.
 
