@@ -7,58 +7,69 @@
 - 💼 Previously worked at [Google](https://cloud.google.com/?hl=fr), [Spendesk](https://spendesk.com/) and [CFO Connect](https://www.cfoconnect.eu/)
 - 👨‍💻 All of my projects are available in my [website][website]
 - 📫 Contact me on [Linkedin][linkedin]
-- ⚡  I love creating new things
+- ⚡ I love creating new things
 
 ## My last projects
 
-### 🔤  Font Explorer
+### 🔤 Font Explorer
+
 [Font Explorer](https://github.com/ayoub9360/font-explorer),
 Explore and preview fonts easily. Try it live at [font.cool.elguendouz-ayoub.com](https://font.cool.elguendouz-ayoub.com/)
 
-### <img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" />  Portfolio
+### <img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" /> Portfolio
+
 [Ayoub El Guendouz - Portfolio](https://elguendouz-ayoub.com),
 </> and Crafted with 💛 by Ayoub El Guendouz
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16px" />  Auto Instagram Publisher
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16px" /> Auto Instagram Publisher
+
 [Auto Instagram Publisher](https://github.com/ayoub9360/Instagram-auto-publish),
 This project is a bot that allows you to automatically generate images from an HTML template and then automatically publish it on your instagram account.
 
-### <img src="https://www.pngitem.com/pimgs/m/377-3779794_google-cloud-speech-to-text-logo-google-cloud.png" width="16px" />  Speech To Text Benchmark
+### <img src="https://www.pngitem.com/pimgs/m/377-3779794_google-cloud-speech-to-text-logo-google-cloud.png" width="16px" /> Speech To Text Benchmark
+
 [Speech To Text Benchmark](https://github.com/ayoub9360/Speech-To-Text-Benchmark),
 This initiative empowers you to rigorously assess and benchmark the Word Error Rate (WER) across various state-of-the-art Speech-to-Text (STT) models, offered by Google's and OpenAI's platforms.
 
-### <img src="https://www.spendesk.com/favicon.ico" width="16px" />  Spendesk
+### <img src="https://www.spendesk.com/favicon.ico" width="16px" /> Spendesk
+
 [Spendesk](https://spendesk.com/),
 Spend management platform that combines payments, approvals, expenses, and accounting automation into one solution.
 
-### <img src="https://images.ctfassets.net/jkjmq4si19up/65sO2zXFw40owCOeIO2cg8/5b42b8ed8cc11341172db5a5c2845a47/logo.svg" width="16px" />  CFO Connect
+### <img src="https://media.licdn.com/dms/image/v2/C560BAQGTlN6vA-S-EA/company-logo_200_200/company-logo_200_200/0/1630593074148/cfoconnect_logo?e=2147483647&v=beta&t=5RNHdoQfAHC2CwSjZDUgCyIa7DEV3RjS6N4dJGaQ9CY" width="16px" /> CFO Connect
+
 [CFO Connect](https://www.cfoconnect.eu/),
 The largest community of finance leaders in Europe, providing resources, events, and networking for CFOs.
 
-### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" />  DevLibrary
+### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" /> DevLibrary
+
 [DevLibrary](https://github.com/google/devlibrary),
 Google Dev Library is content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.
 
-### <img src="https://i.ibb.co/rHGZLD3/proxy.png" width="16px" />  Local Rotating Proxies
+### <img src="https://i.ibb.co/rHGZLD3/proxy.png" width="16px" /> Local Rotating Proxies
+
 [Local Rotating Proxies](https://github.com/ayoub9360/Local-Rotating-Proxies),
 This project allow you to use one local proxy adress which will rotate for each request between multiple proxies to avoid to get blocked with one of your proxies.
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/QR_Code_example.png" width="16px" />  Yibzee
-[Yibzee](https://happy-goodall-cbe8d2.netlify.app/),
-Creation of a project enabling fast food owner to create a free digital menu accessible by QR code. 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/QR_Code_example.png" width="16px" /> Yibzee
 
-### <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png" width="16px" />  Python Game
+[Yibzee](https://happy-goodall-cbe8d2.netlify.app/),
+Creation of a project enabling fast food owner to create a free digital menu accessible by QR code.
+
+### <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png" width="16px" /> Python Game
+
 [Python Game](https://github.com/ayoub9360/python-game),
 Creation of a game in python using PyGame. Here the game is a new version of and existing game named Flappy Bird.
 
-
 ### Connect with me:
+
 [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
