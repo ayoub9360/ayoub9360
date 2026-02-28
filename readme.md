@@ -11,6 +11,11 @@
 
 ## My last projects
 
+### <img src="https://raw.githubusercontent.com/ayoub9360/stash-bookmark/main/apps/web/public/favicon.svg" width="16px" /> Stash — AI Bookmark Manager
+
+[Stash Bookmark](https://github.com/ayoub9360/stash-bookmark),
+Self-hosted AI bookmark manager. Paste a link, it summarizes, categorizes, tags, and makes it searchable in natural language. No accounts. No tracking. Your data stays on your machine.
+
 ### 🔤 Font Explorer
 
 [Font Explorer](https://github.com/ayoub9360/font-explorer),
