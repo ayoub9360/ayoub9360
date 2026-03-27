@@ -1,13 +1,13 @@
 [website]: https://elguendouz-ayoub.com/
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
 
-# Hi 👋🏻, I'm [Ayoub][website]
+# Hi, I'm [Ayoub][website]
 
-- 🔭 I’m currently working as a Freelance
-- 💼 Previously worked at [Google](https://cloud.google.com/?hl=fr), [Spendesk](https://spendesk.com/) and [CFO Connect](https://www.cfoconnect.eu/)
-- 👨‍💻 All of my projects are available in my [website][website]
+- ☁️ Cloud Engineer GCP & Fullstack Developer — Freelance
+- 🏢 Previously at [Google Cloud](https://cloud.google.com/?hl=fr), [Spendesk](https://spendesk.com/) and [CFO Connect](https://www.cfoconnect.eu/)
+- 🎓 Certified GCP: Professional Cloud Architect, Associate Cloud Engineer, Digital Leader
+- 👨‍💻 All of my projects are available on my [website][website]
 - 📫 Contact me on [Linkedin][linkedin]
-- ⚡ I love creating new things
 
 ## My last projects
 
@@ -15,6 +15,11 @@
 
 [Stash Bookmark](https://github.com/ayoub9360/stash-bookmark),
 Self-hosted AI bookmark manager. Paste a link, it summarizes, categorizes, tags, and makes it searchable in natural language. No accounts. No tracking. Your data stays on your machine.
+
+### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" /> DevLibrary
+
+[DevLibrary](https://github.com/google/devlibrary),
+Google Dev Library is a content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.
 
 ### 🔤 Font Explorer
 
@@ -46,11 +51,6 @@ Spend management platform that combines payments, approvals, expenses, and accou
 [CFO Connect](https://www.cfoconnect.eu/),
 The largest community of finance leaders in Europe, providing resources, events, and networking for CFOs.
 
-### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" /> DevLibrary
-
-[DevLibrary](https://github.com/google/devlibrary),
-Google Dev Library is content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.
-
 ### <img src="https://i.ibb.co/rHGZLD3/proxy.png" width="16px" /> Local Rotating Proxies
 
 [Local Rotating Proxies](https://github.com/ayoub9360/Local-Rotating-Proxies),
@@ -68,45 +68,35 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 ### Connect with me:
 
-[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
