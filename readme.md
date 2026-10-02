@@ -11,6 +11,11 @@
 
 ## My last projects
 
+### 🔀 Agent Switch
+
+[Agent Switch](https://github.com/ayoub9360/agent-switch),
+Manage Claude Code and Codex instructions, skills, MCP servers, and hooks from one local interface. Review diffs before applying changes, with backups and conflict detection. Get started with `npx @ayoub9360/agent-switch@latest`.
+
 ### <img src="https://raw.githubusercontent.com/ayoub9360/stash-bookmark/main/apps/web/public/favicon.svg" width="16px" /> Stash — AI Bookmark Manager
 
 [Stash Bookmark](https://github.com/ayoub9360/stash-bookmark),
