@@ -2,7 +2,7 @@
 
 SVG files are stored locally so the profile does not depend on external image hosting. Sources were retrieved on 2026-10-16. Wikimedia was checked first, but downloads returned HTTP 403 in the editing environment.
 
-Monochrome `currentColor` values and the black Fastify mark use neutral blue (`#64748b`) for visibility on light and dark backgrounds. RAG, Agentic RAG and CI/CD use representative Lucide pictograms, not product logos. pgvector uses the PostgreSQL logo.
+Monochrome `currentColor` values and the black Fastify and Express marks use neutral blue (`#64748b`) for visibility on light and dark backgrounds. RAG, Agentic RAG, Tool Calling and CI/CD use representative Lucide pictograms, not product logos. pgvector uses the PostgreSQL logo.
 
 | Technology | Source | Collection / notes |
 | --- | --- | --- |
@@ -30,5 +30,8 @@ Monochrome `currentColor` values and the black Fastify mark use neutral blue (`#
 | CI/CD | [SVG](https://raw.githubusercontent.com/lucide-icons/lucide/1ef60af944de207e0d5176905a0759ba12e6ee8d/icons/workflow.svg) | Lucide (representative pictogram) |
 | AI SDK | [SVG](https://ai-sdk.dev/icon.svg) | AI SDK official website |
 | pgvector | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/postgresql/postgresql-original.svg) | PostgreSQL logo (pgvector is a PostgreSQL extension) |
+| Express | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/express/express-original.svg) | Devicon |
+| Playwright | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/playwright/playwright-original.svg) | Devicon |
+| Tool Calling | [SVG](https://raw.githubusercontent.com/lucide-icons/lucide/1ef60af944de207e0d5176905a0759ba12e6ee8d/icons/wrench.svg) | Lucide (representative pictogram) |
 
 Collection licenses are included alongside these files. Product names and logos belong to their respective owners.
