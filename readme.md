@@ -111,3 +111,9 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 **LLMOps / Evaluation**
 
 <sub><img src="assets/tech/langfuse.svg" width="18" height="18" alt="" /></sub> `Langfuse`
+
+## Current interests
+
+I'm particularly interested in:
+
+`AI Agents` · `Agent Infrastructure` · `RAG` · `MCP` · `Context Engineering` · `Retrieval` · `LLM Evaluation` · `LLMOps` · `Enterprise AI`
