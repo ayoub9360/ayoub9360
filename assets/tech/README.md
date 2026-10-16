@@ -31,7 +31,9 @@ Monochrome `currentColor` values and the black Fastify and Express marks use neu
 | AI SDK | [SVG](https://ai-sdk.dev/icon.svg) | AI SDK official website |
 | pgvector | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/postgresql/postgresql-original.svg) | PostgreSQL logo (pgvector is a PostgreSQL extension) |
 | Express | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/express/express-original.svg) | Devicon |
-| Playwright | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/playwright/playwright-original.svg) | Devicon |
 | Tool Calling | [SVG](https://raw.githubusercontent.com/lucide-icons/lucide/1ef60af944de207e0d5176905a0759ba12e6ee8d/icons/wrench.svg) | Lucide (representative pictogram) |
+| Vue.js | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/vuejs/vuejs-original.svg) | Devicon |
+| Nuxt.js | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nuxtjs/nuxtjs-original.svg) | Devicon |
+| AWS | [SVG](https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | Devicon |
 
 Collection licenses are included alongside these files. Product names and logos belong to their respective owners.

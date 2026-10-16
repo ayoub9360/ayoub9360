@@ -71,13 +71,6 @@ Creation of a project enabling fast food owner to create a free digital menu acc
 [Python Game](https://github.com/ayoub9360/python-game),
 Creation of a game in python using PyGame. Here the game is a new version of and existing game named Flappy Bird.
 
-### Connect with me:
-
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ## Tech
 
 **AI / Agents**
@@ -94,11 +87,7 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 **Frontend**
 
-<sub><img src="assets/tech/react.svg" width="18" height="18" alt="" /></sub> `React` · <sub><img src="assets/tech/nextjs.svg" width="18" height="18" alt="" /></sub> `Next.js`
-
-**Testing**
-
-<sub><img src="assets/tech/playwright.svg" width="18" height="18" alt="" /></sub> `Playwright`
+<sub><img src="assets/tech/react.svg" width="18" height="18" alt="" /></sub> `React` · <sub><img src="assets/tech/nextjs.svg" width="18" height="18" alt="" /></sub> `Next.js` · <sub><img src="assets/tech/vuejs.svg" width="18" height="18" alt="" /></sub> `Vue.js` · <sub><img src="assets/tech/nuxtjs.svg" width="18" height="18" alt="" /></sub> `Nuxt.js`
 
 **Data & Retrieval**
 
@@ -106,7 +95,7 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 **Infrastructure / CI/CD**
 
-<sub><img src="assets/tech/docker.svg" width="18" height="18" alt="" /></sub> `Docker` · <sub><img src="assets/tech/terraform.svg" width="18" height="18" alt="" /></sub> `Terraform` · <sub><img src="assets/tech/githubactions.svg" width="18" height="18" alt="" /></sub> `GitHub Actions` · <sub><img src="assets/tech/workflow.svg" width="18" height="18" alt="" /></sub> `CI/CD` · <sub><img src="assets/tech/googlecloud.svg" width="18" height="18" alt="" /></sub> `GCP`
+<sub><img src="assets/tech/docker.svg" width="18" height="18" alt="" /></sub> `Docker` · <sub><img src="assets/tech/terraform.svg" width="18" height="18" alt="" /></sub> `Terraform` · <sub><img src="assets/tech/githubactions.svg" width="18" height="18" alt="" /></sub> `GitHub Actions` · <sub><img src="assets/tech/workflow.svg" width="18" height="18" alt="" /></sub> `CI/CD` · <sub><img src="assets/tech/googlecloud.svg" width="18" height="18" alt="" /></sub> `GCP` · <sub><img src="assets/tech/aws.svg" width="18" height="18" alt="" /></sub> `AWS`
 
 **LLMOps / Evaluation**
 
@@ -114,6 +103,8 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 ## Current interests
 
-I'm particularly interested in:
-
 `AI Agents` · `Agent Infrastructure` · `RAG` · `MCP` · `Context Engineering` · `Retrieval` · `LLM Evaluation` · `LLMOps` · `Enterprise AI`
+
+## Links
+
+[<sub><img src="assets/links/portfolio.svg" width="18" height="18" alt="" /></sub> **Portfolio**][website] · [<sub><img src="assets/links/linkedin.svg" width="18" height="18" alt="" /></sub> **LinkedIn**][linkedin]
