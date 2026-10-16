@@ -1,13 +1,13 @@
 [website]: https://elguendouz-ayoub.com/
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
 
-# [Ayoub El Guendouz][website]
+# Ayoub El Guendouz
 
-- ☁️ Cloud Engineer GCP & Fullstack Developer — Freelance
+- ☁️ Freelance AI Engineer / Fullstack Developer
 - 🏢 Previously at [Google Cloud](https://cloud.google.com/?hl=fr), [Spendesk](https://spendesk.com/) and [CFO Connect](https://www.cfoconnect.eu/)
 - 🎓 Certified GCP: Professional Cloud Architect, Associate Cloud Engineer, Digital Leader
 
-I'm a freelance **Fullstack & AI Developer** with **5+ years of experience**, including two years at Google Cloud. I design and build **web applications, AI agents and RAG systems**, from scoping and architecture to production.
+I'm a freelance **AI Engineer / Fullstack Developer** with **5+ years of experience**, including two years at Google Cloud. I design and build **web applications, AI agents and RAG systems**, from scoping and architecture to production.
 
 My work spans frontend and backend development, LLM integrations, semantic search, agent workflows and production monitoring. I work primarily with **TypeScript, React / Next.js, Python / FastAPI and Google Cloud**, connecting product needs with hands-on engineering.
 
