@@ -78,30 +78,32 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 <br />
 
-### Languages and Tools:
+## Tech
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
+**AI / Agents**
+
+<img src="assets/tech/langgraph.svg" width="18" height="18" alt="" /> `LangGraph` · <img src="assets/tech/langchain.svg" width="18" height="18" alt="" /> `LangChain` · <img src="assets/tech/ai-sdk.svg" width="18" height="18" alt="" /> `AI SDK` · <img src="assets/tech/mcp.svg" width="18" height="18" alt="" /> `MCP` · <img src="assets/tech/database-search.svg" width="18" height="18" alt="" /> `RAG` · <img src="assets/tech/network.svg" width="18" height="18" alt="" /> `Agentic RAG` · <img src="assets/tech/openwebui.svg" width="18" height="18" alt="" /> `OpenWebUI` · <img src="assets/tech/hugging-face.svg" width="18" height="18" alt="" /> `Hugging Face` · <img src="assets/tech/vertex-ai.svg" width="18" height="18" alt="" /> `Vertex AI`
+
+**Languages**
+
+<img src="assets/tech/typescript.svg" width="18" height="18" alt="" /> `TypeScript` · <img src="assets/tech/python.svg" width="18" height="18" alt="" /> `Python`
+
+**Backend**
+
+<img src="assets/tech/fastapi.svg" width="18" height="18" alt="" /> `FastAPI` · <img src="assets/tech/nodejs.svg" width="18" height="18" alt="" /> `Node.js` · <img src="assets/tech/fastify.svg" width="18" height="18" alt="" /> `Fastify`
+
+**Frontend**
+
+<img src="assets/tech/react.svg" width="18" height="18" alt="" /> `React` · <img src="assets/tech/nextjs.svg" width="18" height="18" alt="" /> `Next.js`
+
+**Data & Retrieval**
+
+<img src="assets/tech/postgresql.svg" width="18" height="18" alt="" /> `PostgreSQL` · <img src="assets/tech/postgresql.svg" width="18" height="18" alt="" /> `pgvector`
+
+**Infrastructure / CI/CD**
+
+<img src="assets/tech/docker.svg" width="18" height="18" alt="" /> `Docker` · <img src="assets/tech/terraform.svg" width="18" height="18" alt="" /> `Terraform` · <img src="assets/tech/githubactions.svg" width="18" height="18" alt="" /> `GitHub Actions` · <img src="assets/tech/workflow.svg" width="18" height="18" alt="" /> `CI/CD` · <img src="assets/tech/googlecloud.svg" width="18" height="18" alt="" /> `GCP`
+
+**LLMOps / Evaluation**
+
+<img src="assets/tech/langfuse.svg" width="18" height="18" alt="" /> `Langfuse`
