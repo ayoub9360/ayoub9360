@@ -1,12 +1,17 @@
 [website]: https://elguendouz-ayoub.com/
 [linkedin]: https://www.linkedin.com/in/ayoub-elg/
 
-# Hi, I'm [Ayoub][website]
+# [Ayoub El Guendouz][website]
 
 - ☁️ Cloud Engineer GCP & Fullstack Developer — Freelance
 - 🏢 Previously at [Google Cloud](https://cloud.google.com/?hl=fr), [Spendesk](https://spendesk.com/) and [CFO Connect](https://www.cfoconnect.eu/)
 - 🎓 Certified GCP: Professional Cloud Architect, Associate Cloud Engineer, Digital Leader
-- 📫 Contact me on [Linkedin][linkedin]
+
+I'm a freelance **Fullstack & AI Developer** with **5+ years of experience**, including two years at Google Cloud. I design and build **web applications, AI agents and RAG systems**, from scoping and architecture to production.
+
+My work spans frontend and backend development, LLM integrations, semantic search, agent workflows and production monitoring. I work primarily with **TypeScript, React / Next.js, Python / FastAPI and Google Cloud**, connecting product needs with hands-on engineering.
+
+At **Google Cloud**, I built AI and cloud demos for enterprise clients, later deployed across Google's Cloud Spaces worldwide. At **Nebesta**, I developed conversational agents backed by RAG, alongside analytics and agent monitoring platforms. I also build open-source tools such as **[Open File](https://github.com/ayoub9360/openfile)**, a document assistant with hybrid retrieval and source-backed answers.
 
 ## My last projects
 
