@@ -82,28 +82,28 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 **AI / Agents**
 
-<img src="assets/tech/langgraph.svg" width="18" height="18" align="center" alt="" /> LangGraph · <img src="assets/tech/langchain.svg" width="18" height="18" align="center" alt="" /> LangChain · <img src="assets/tech/ai-sdk.svg" width="18" height="18" align="center" alt="" /> AI SDK · <img src="assets/tech/mcp.svg" width="18" height="18" align="center" alt="" /> MCP · <img src="assets/tech/database-search.svg" width="18" height="18" align="center" alt="" /> RAG · <img src="assets/tech/network.svg" width="18" height="18" align="center" alt="" /> Agentic RAG · <img src="assets/tech/openwebui.svg" width="18" height="18" align="center" alt="" /> OpenWebUI · <img src="assets/tech/hugging-face.svg" width="18" height="18" align="center" alt="" /> Hugging Face · <img src="assets/tech/vertex-ai.svg" width="18" height="18" align="center" alt="" /> Vertex AI
+<img src="assets/tech/langgraph.svg" width="18" height="18" align="middle" alt="" /> LangGraph · <img src="assets/tech/langchain.svg" width="18" height="18" align="middle" alt="" /> LangChain · <img src="assets/tech/ai-sdk.svg" width="18" height="18" align="middle" alt="" /> AI SDK · <img src="assets/tech/mcp.svg" width="18" height="18" align="middle" alt="" /> MCP · <img src="assets/tech/database-search.svg" width="18" height="18" align="middle" alt="" /> RAG · <img src="assets/tech/network.svg" width="18" height="18" align="middle" alt="" /> Agentic RAG · <img src="assets/tech/openwebui.svg" width="18" height="18" align="middle" alt="" /> OpenWebUI · <img src="assets/tech/hugging-face.svg" width="18" height="18" align="middle" alt="" /> Hugging Face · <img src="assets/tech/vertex-ai.svg" width="18" height="18" align="middle" alt="" /> Vertex AI
 
 **Languages**
 
-<img src="assets/tech/typescript.svg" width="18" height="18" align="center" alt="" /> TypeScript · <img src="assets/tech/python.svg" width="18" height="18" align="center" alt="" /> Python
+<img src="assets/tech/typescript.svg" width="18" height="18" align="middle" alt="" /> TypeScript · <img src="assets/tech/python.svg" width="18" height="18" align="middle" alt="" /> Python
 
 **Backend**
 
-<img src="assets/tech/fastapi.svg" width="18" height="18" align="center" alt="" /> FastAPI · <img src="assets/tech/nodejs.svg" width="18" height="18" align="center" alt="" /> Node.js · <img src="assets/tech/fastify.svg" width="18" height="18" align="center" alt="" /> Fastify
+<img src="assets/tech/fastapi.svg" width="18" height="18" align="middle" alt="" /> FastAPI · <img src="assets/tech/nodejs.svg" width="18" height="18" align="middle" alt="" /> Node.js · <img src="assets/tech/fastify.svg" width="18" height="18" align="middle" alt="" /> Fastify
 
 **Frontend**
 
-<img src="assets/tech/react.svg" width="18" height="18" align="center" alt="" /> React · <img src="assets/tech/nextjs.svg" width="18" height="18" align="center" alt="" /> Next.js
+<img src="assets/tech/react.svg" width="18" height="18" align="middle" alt="" /> React · <img src="assets/tech/nextjs.svg" width="18" height="18" align="middle" alt="" /> Next.js
 
 **Data & Retrieval**
 
-<img src="assets/tech/postgresql.svg" width="18" height="18" align="center" alt="" /> PostgreSQL · <img src="assets/tech/postgresql.svg" width="18" height="18" align="center" alt="" /> pgvector
+<img src="assets/tech/postgresql.svg" width="18" height="18" align="middle" alt="" /> PostgreSQL · <img src="assets/tech/postgresql.svg" width="18" height="18" align="middle" alt="" /> pgvector
 
 **Infrastructure / CI/CD**
 
-<img src="assets/tech/docker.svg" width="18" height="18" align="center" alt="" /> Docker · <img src="assets/tech/terraform.svg" width="18" height="18" align="center" alt="" /> Terraform · <img src="assets/tech/githubactions.svg" width="18" height="18" align="center" alt="" /> GitHub Actions · <img src="assets/tech/workflow.svg" width="18" height="18" align="center" alt="" /> CI/CD · <img src="assets/tech/googlecloud.svg" width="18" height="18" align="center" alt="" /> GCP
+<img src="assets/tech/docker.svg" width="18" height="18" align="middle" alt="" /> Docker · <img src="assets/tech/terraform.svg" width="18" height="18" align="middle" alt="" /> Terraform · <img src="assets/tech/githubactions.svg" width="18" height="18" align="middle" alt="" /> GitHub Actions · <img src="assets/tech/workflow.svg" width="18" height="18" align="middle" alt="" /> CI/CD · <img src="assets/tech/googlecloud.svg" width="18" height="18" align="middle" alt="" /> GCP
 
 **LLMOps / Evaluation**
 
-<img src="assets/tech/langfuse.svg" width="18" height="18" align="center" alt="" /> Langfuse
+<img src="assets/tech/langfuse.svg" width="18" height="18" align="middle" alt="" /> Langfuse
