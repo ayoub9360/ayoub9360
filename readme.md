@@ -6,10 +6,19 @@
 - ☁️ Cloud Engineer GCP & Fullstack Developer — Freelance
 - 🏢 Previously at [Google Cloud](https://cloud.google.com/?hl=fr), [Spendesk](https://spendesk.com/) and [CFO Connect](https://www.cfoconnect.eu/)
 - 🎓 Certified GCP: Professional Cloud Architect, Associate Cloud Engineer, Digital Leader
-- 👨‍💻 All of my projects are available on my [website][website]
 - 📫 Contact me on [Linkedin][linkedin]
 
 ## My last projects
+
+### 📂 Open File
+
+[Open File](https://github.com/ayoub9360/openfile),
+Self-hosted document management with an optional AI assistant. Organize files, search their contents, and ask questions with answers linked to your documents. Store originals locally or in Google Drive.
+
+### 🔔 Job Pulse
+
+[Job Pulse](https://github.com/ayoub9360/job-pulse),
+Self-hosted job monitoring with configurable searches and filters. Track matching opportunities across job sources and receive new matches in Discord, with persistent notification history to avoid duplicates.
 
 ### 🔀 Agent Switch
 
@@ -26,21 +35,6 @@ Self-hosted AI bookmark manager. Paste a link, it summarizes, categorizes, tags,
 [DevLibrary](https://github.com/google/devlibrary),
 Google Dev Library is a content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.
 
-### 🔤 Font Explorer
-
-[Font Explorer](https://github.com/ayoub9360/font-explorer),
-Explore and preview fonts easily. Try it live at [font.cool.elguendouz-ayoub.com](https://font.cool.elguendouz-ayoub.com/)
-
-### <img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" /> Portfolio
-
-[Ayoub El Guendouz - Portfolio](https://elguendouz-ayoub.com),
-</> and Crafted with 💛 by Ayoub El Guendouz
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16px" /> Auto Instagram Publisher
-
-[Auto Instagram Publisher](https://github.com/ayoub9360/Instagram-auto-publish),
-This project is a bot that allows you to automatically generate images from an HTML template and then automatically publish it on your instagram account.
-
 ### <img src="https://www.pngitem.com/pimgs/m/377-3779794_google-cloud-speech-to-text-logo-google-cloud.png" width="16px" /> Speech To Text Benchmark
 
 [Speech To Text Benchmark](https://github.com/ayoub9360/Speech-To-Text-Benchmark),
@@ -56,20 +50,15 @@ Spend management platform that combines payments, approvals, expenses, and accou
 [CFO Connect](https://www.cfoconnect.eu/),
 The largest community of finance leaders in Europe, providing resources, events, and networking for CFOs.
 
-### <img src="https://i.ibb.co/rHGZLD3/proxy.png" width="16px" /> Local Rotating Proxies
+### 🔤 Font Explorer
 
-[Local Rotating Proxies](https://github.com/ayoub9360/Local-Rotating-Proxies),
-This project allow you to use one local proxy adress which will rotate for each request between multiple proxies to avoid to get blocked with one of your proxies.
+[Font Explorer](https://github.com/ayoub9360/font-explorer),
+Explore and preview fonts easily. Try it live at [font.cool.elguendouz-ayoub.com](https://font.cool.elguendouz-ayoub.com/)
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/QR_Code_example.png" width="16px" /> Yibzee
+### <img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" /> Portfolio
 
-[Yibzee](https://happy-goodall-cbe8d2.netlify.app/),
-Creation of a project enabling fast food owner to create a free digital menu accessible by QR code.
-
-### <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png" width="16px" /> Python Game
-
-[Python Game](https://github.com/ayoub9360/python-game),
-Creation of a game in python using PyGame. Here the game is a new version of and existing game named Flappy Bird.
+[Ayoub El Guendouz - Portfolio](https://elguendouz-ayoub.com),
+</> and Crafted with 💛 by Ayoub El Guendouz
 
 ## Tech
 
