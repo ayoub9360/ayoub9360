@@ -10,58 +10,55 @@
 
 ## My last projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayoub9360/openfile">📂 Open File</a></h3>
-      <p>Self-hosted document management with an optional AI assistant. Organize files, search their contents, and ask questions with answers linked to your documents. Store originals locally or in Google Drive.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayoub9360/job-pulse">🔔 Job Pulse</a></h3>
-      <p>Self-hosted job monitoring with configurable searches and filters. Track matching opportunities across job sources and receive new matches in Discord, with persistent notification history to avoid duplicates.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayoub9360/agent-switch">🔀 Agent Switch</a></h3>
-      <p>Manage Claude Code and Codex instructions, skills, MCP servers, and hooks from one local interface. Review diffs before applying changes, with backups and conflict detection. Get started with <code>npx @ayoub9360/agent-switch@latest</code>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayoub9360/stash-bookmark"><img src="https://raw.githubusercontent.com/ayoub9360/stash-bookmark/main/apps/web/public/favicon.svg" width="16px" /> Stash — AI Bookmark Manager</a></h3>
-      <p>Self-hosted AI bookmark manager. Paste a link, it summarizes, categorizes, tags, and makes it searchable in natural language. No accounts. No tracking. Your data stays on your machine.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/google/devlibrary"><img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" /> DevLibrary</a></h3>
-      <p>Google Dev Library is a content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayoub9360/Speech-To-Text-Benchmark"><img src="https://www.pngitem.com/pimgs/m/377-3779794_google-cloud-speech-to-text-logo-google-cloud.png" width="16px" /> Speech To Text Benchmark</a></h3>
-      <p>This initiative empowers you to rigorously assess and benchmark the Word Error Rate (WER) across various state-of-the-art Speech-to-Text (STT) models, offered by Google's and OpenAI's platforms.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://spendesk.com/"><img src="https://www.spendesk.com/favicon.ico" width="16px" /> Spendesk</a></h3>
-      <p>Spend management platform that combines payments, approvals, expenses, and accounting automation into one solution.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://www.cfoconnect.eu/"><img src="https://media.licdn.com/dms/image/v2/C560BAQGTlN6vA-S-EA/company-logo_200_200/company-logo_200_200/0/1630593074148/cfoconnect_logo?e=2147483647&v=beta&t=5RNHdoQfAHC2CwSjZDUgCyIa7DEV3RjS6N4dJGaQ9CY" width="16px" /> CFO Connect</a></h3>
-      <p>The largest community of finance leaders in Europe, providing resources, events, and networking for CFOs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayoub9360/font-explorer">🔤 Font Explorer</a></h3>
-      <p>Explore and preview fonts easily. Try it live at <a href="https://font.cool.elguendouz-ayoub.com/">font.cool.elguendouz-ayoub.com</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://elguendouz-ayoub.com"><img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" /> Portfolio</a></h3>
-      <p>&lt;/&gt; and Crafted with 💛 by Ayoub El Guendouz</p>
-    </td>
-  </tr>
-</table>
+### 📂 Open File
+
+[Open File](https://github.com/ayoub9360/openfile),
+Self-hosted document management with an optional AI assistant. Organize files, search their contents, and ask questions with answers linked to your documents. Store originals locally or in Google Drive.
+
+### 🔔 Job Pulse
+
+[Job Pulse](https://github.com/ayoub9360/job-pulse),
+Self-hosted job monitoring with configurable searches and filters. Track matching opportunities across job sources and receive new matches in Discord, with persistent notification history to avoid duplicates.
+
+### 🔀 Agent Switch
+
+[Agent Switch](https://github.com/ayoub9360/agent-switch),
+Manage Claude Code and Codex instructions, skills, MCP servers, and hooks from one local interface. Review diffs before applying changes, with backups and conflict detection. Get started with `npx @ayoub9360/agent-switch@latest`.
+
+### <img src="https://raw.githubusercontent.com/ayoub9360/stash-bookmark/main/apps/web/public/favicon.svg" width="16px" /> Stash — AI Bookmark Manager
+
+[Stash Bookmark](https://github.com/ayoub9360/stash-bookmark),
+Self-hosted AI bookmark manager. Paste a link, it summarizes, categorizes, tags, and makes it searchable in natural language. No accounts. No tracking. Your data stays on your machine.
+
+### <img src="https://e7.pngegg.com/pngimages/326/85/png-clipart-google-logo-google-text-trademark.png" width="16px" /> DevLibrary
+
+[DevLibrary](https://github.com/google/devlibrary),
+Google Dev Library is a content library of open source projects and technical blogs featuring Google technologies authored and contributed by developers from around the world.
+
+### <img src="https://www.pngitem.com/pimgs/m/377-3779794_google-cloud-speech-to-text-logo-google-cloud.png" width="16px" /> Speech To Text Benchmark
+
+[Speech To Text Benchmark](https://github.com/ayoub9360/Speech-To-Text-Benchmark),
+This initiative empowers you to rigorously assess and benchmark the Word Error Rate (WER) across various state-of-the-art Speech-to-Text (STT) models, offered by Google's and OpenAI's platforms.
+
+### <img src="https://www.spendesk.com/favicon.ico" width="16px" /> Spendesk
+
+[Spendesk](https://spendesk.com/),
+Spend management platform that combines payments, approvals, expenses, and accounting automation into one solution.
+
+### <img src="https://media.licdn.com/dms/image/v2/C560BAQGTlN6vA-S-EA/company-logo_200_200/company-logo_200_200/0/1630593074148/cfoconnect_logo?e=2147483647&v=beta&t=5RNHdoQfAHC2CwSjZDUgCyIa7DEV3RjS6N4dJGaQ9CY" width="16px" /> CFO Connect
+
+[CFO Connect](https://www.cfoconnect.eu/),
+The largest community of finance leaders in Europe, providing resources, events, and networking for CFOs.
+
+### 🔤 Font Explorer
+
+[Font Explorer](https://github.com/ayoub9360/font-explorer),
+Explore and preview fonts easily. Try it live at [font.cool.elguendouz-ayoub.com](https://font.cool.elguendouz-ayoub.com/)
+
+### <img src="https://www.elguendouz-ayoub.com/img/logo.svg" width="16px" /> Portfolio
+
+[Ayoub El Guendouz - Portfolio](https://elguendouz-ayoub.com),
+</> and Crafted with 💛 by Ayoub El Guendouz
 
 ## Tech
 
