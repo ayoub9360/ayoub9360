@@ -82,28 +82,28 @@ Creation of a game in python using PyGame. Here the game is a new version of and
 
 **AI / Agents**
 
-<sub><img src="assets/tech/langgraph.svg" width="18" height="18" alt="" /></sub> `LangGraph` · <sub><img src="assets/tech/langchain.svg" width="18" height="18" alt="" /></sub> `LangChain` · <sub><img src="assets/tech/ai-sdk.svg" width="18" height="18" alt="" /></sub> `AI SDK` · <sub><img src="assets/tech/mcp.svg" width="18" height="18" alt="" /></sub> `MCP` · <sub><img src="assets/tech/database-search.svg" width="18" height="18" alt="" /></sub> `RAG` · <sub><img src="assets/tech/network.svg" width="18" height="18" alt="" /></sub> `Agentic RAG` · <sub><img src="assets/tech/openwebui.svg" width="18" height="18" alt="" /></sub> `OpenWebUI` · <sub><img src="assets/tech/hugging-face.svg" width="18" height="18" alt="" /></sub> `Hugging Face` · <sub><img src="assets/tech/vertex-ai.svg" width="18" height="18" alt="" /></sub> `Vertex AI`
+<sub><img src="assets/tech/langgraph.svg" width="18" height="18" alt="" /></sub> LangGraph · <sub><img src="assets/tech/langchain.svg" width="18" height="18" alt="" /></sub> LangChain · <sub><img src="assets/tech/ai-sdk.svg" width="18" height="18" alt="" /></sub> AI SDK · <sub><img src="assets/tech/mcp.svg" width="18" height="18" alt="" /></sub> MCP · <sub><img src="assets/tech/database-search.svg" width="18" height="18" alt="" /></sub> RAG · <sub><img src="assets/tech/network.svg" width="18" height="18" alt="" /></sub> Agentic RAG · <sub><img src="assets/tech/openwebui.svg" width="18" height="18" alt="" /></sub> OpenWebUI · <sub><img src="assets/tech/hugging-face.svg" width="18" height="18" alt="" /></sub> Hugging Face · <sub><img src="assets/tech/vertex-ai.svg" width="18" height="18" alt="" /></sub> Vertex AI
 
 **Languages**
 
-<sub><img src="assets/tech/typescript.svg" width="18" height="18" alt="" /></sub> `TypeScript` · <sub><img src="assets/tech/python.svg" width="18" height="18" alt="" /></sub> `Python`
+<sub><img src="assets/tech/typescript.svg" width="18" height="18" alt="" /></sub> TypeScript · <sub><img src="assets/tech/python.svg" width="18" height="18" alt="" /></sub> Python
 
 **Backend**
 
-<sub><img src="assets/tech/fastapi.svg" width="18" height="18" alt="" /></sub> `FastAPI` · <sub><img src="assets/tech/nodejs.svg" width="18" height="18" alt="" /></sub> `Node.js` · <sub><img src="assets/tech/fastify.svg" width="18" height="18" alt="" /></sub> `Fastify`
+<sub><img src="assets/tech/fastapi.svg" width="18" height="18" alt="" /></sub> FastAPI · <sub><img src="assets/tech/nodejs.svg" width="18" height="18" alt="" /></sub> Node.js · <sub><img src="assets/tech/fastify.svg" width="18" height="18" alt="" /></sub> Fastify
 
 **Frontend**
 
-<sub><img src="assets/tech/react.svg" width="18" height="18" alt="" /></sub> `React` · <sub><img src="assets/tech/nextjs.svg" width="18" height="18" alt="" /></sub> `Next.js`
+<sub><img src="assets/tech/react.svg" width="18" height="18" alt="" /></sub> React · <sub><img src="assets/tech/nextjs.svg" width="18" height="18" alt="" /></sub> Next.js
 
 **Data & Retrieval**
 
-<sub><img src="assets/tech/postgresql.svg" width="18" height="18" alt="" /></sub> `PostgreSQL` · <sub><img src="assets/tech/postgresql.svg" width="18" height="18" alt="" /></sub> `pgvector`
+<sub><img src="assets/tech/postgresql.svg" width="18" height="18" alt="" /></sub> PostgreSQL · <sub><img src="assets/tech/postgresql.svg" width="18" height="18" alt="" /></sub> pgvector
 
 **Infrastructure / CI/CD**
 
-<sub><img src="assets/tech/docker.svg" width="18" height="18" alt="" /></sub> `Docker` · <sub><img src="assets/tech/terraform.svg" width="18" height="18" alt="" /></sub> `Terraform` · <sub><img src="assets/tech/githubactions.svg" width="18" height="18" alt="" /></sub> `GitHub Actions` · <sub><img src="assets/tech/workflow.svg" width="18" height="18" alt="" /></sub> `CI/CD` · <sub><img src="assets/tech/googlecloud.svg" width="18" height="18" alt="" /></sub> `GCP`
+<sub><img src="assets/tech/docker.svg" width="18" height="18" alt="" /></sub> Docker · <sub><img src="assets/tech/terraform.svg" width="18" height="18" alt="" /></sub> Terraform · <sub><img src="assets/tech/githubactions.svg" width="18" height="18" alt="" /></sub> GitHub Actions · <sub><img src="assets/tech/workflow.svg" width="18" height="18" alt="" /></sub> CI/CD · <sub><img src="assets/tech/googlecloud.svg" width="18" height="18" alt="" /></sub> GCP
 
 **LLMOps / Evaluation**
 
-<sub><img src="assets/tech/langfuse.svg" width="18" height="18" alt="" /></sub> `Langfuse`
+<sub><img src="assets/tech/langfuse.svg" width="18" height="18" alt="" /></sub> Langfuse
